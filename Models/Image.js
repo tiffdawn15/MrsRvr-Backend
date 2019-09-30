@@ -1,3 +1,7 @@
+
+//This will be the data used for the homepage 
+
+
 const mongoose = require("../connection")
 const Schema = mongoose.Schema
 

@@ -13,7 +13,9 @@ app.use(cors())
 app.use(parser.urlencoded({extended: true}));
 app.use(parser.json())
 
-
+app.get("/", (request, response) => {
+    response.send("Hello World");
+  });
 
 // app.use('/', jobsRouter)
 // app.use("/skills", skillsRouter)
