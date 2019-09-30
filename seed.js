@@ -7,20 +7,16 @@ const roverJsonData = require("./rover.json")
 
 
 
-const imageSeedData = 
 
 
 
+// const roverSeedData = roverJsonData.map(roverJson => {
+//     const roverData = {};
 
-const roverSeedData = roverJsonData.map(roverJson => {
-    const roverData = {};
 
-    roverData.uuid = roverJson.uuid;
-    roverData.title = roverJson.title;
-    roverData.normalized = roverJson.normalized;
 
-    return roverData;
-})
+//     return roverData;
+// })
 
 
 

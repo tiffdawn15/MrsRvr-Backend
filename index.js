@@ -5,21 +5,19 @@ const app = express();
 
 
 
-// const jobsRouter = require("./routes/jobs")
-// const skillsRouter = require("./routes/skills")
-// const onetRouter = require("./routes/onet")
+const imageRouter = require("./Routes/image")
+const roverRouter = require("./Routes/rover")
+
 
 app.use(cors())
 app.use(parser.urlencoded({extended: true}));
 app.use(parser.json())
 
-app.get("/", (request, response) => {
-    response.send("Hello World");
-  });
 
-// app.use('/', jobsRouter)
-// app.use("/skills", skillsRouter)
-// app.use("/onet", onetRouter)
+
+app.use('/', imageRouter)
+app.use("/skills", roverRouter)
+
 
 
 

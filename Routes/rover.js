@@ -1,12 +1,12 @@
 const express = require('express');
 const controllerRouter = express.Router();
-const jobsController = require("../controllers/jobs")
+const roverController = require("../controllers/rover")
 
-controllerRouter.get("/", jobsController.index)
-controllerRouter.get("/title/:title", jobsController.show)
-controllerRouter.post("/", jobsController.create)
-controllerRouter.put("/update/:title", jobsController.update)
-controllerRouter.delete("/delete/:title", jobsController.destroy)
+controllerRouter.get("/", roverController.index)
+// controllerRouter.get("/title/:title", roverController.show)
+controllerRouter.post("/", roverController.create)
+// controllerRouter.put("/update/:title", roverController.update)
+// controllerRouter.delete("/delete/:title", roverController.destroy)
 
 
 module.exports = controllerRouter;
