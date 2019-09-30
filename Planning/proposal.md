@@ -4,9 +4,10 @@ MrsRvr:
 
 
     User Story: 
-    * Homescreen loads with a large image and 
+    * Homescreen loads with a large image and some details below the image  (Model1). You can click on the image and it will take you to more data on the Rover's mission (Model 2). 
 
-
+    Gold Version: 
+        - Include user accounts with the ability to like a post, this way we can tell which photo is the favorite. 
 
 
 
