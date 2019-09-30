@@ -13,10 +13,11 @@ app.use(cors())
 app.use(parser.urlencoded({extended: true}));
 app.use(parser.json())
 
-
+const imageRouter = require("./Routes/image")
+const roverRouter = require("./Routes/rover")
 
 app.use('/', imageRouter)
-app.use("/skills", roverRouter)
+app.use("/rover", roverRouter)
 
 
 
