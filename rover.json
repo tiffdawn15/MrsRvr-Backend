@@ -10,15 +10,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631200305217E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -49,7 +49,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424927,
@@ -62,15 +62,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631190503679E04_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+    
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -101,7 +101,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424928,
@@ -114,15 +114,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631190305216E04_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -153,7 +153,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424929,
@@ -166,15 +166,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631180503678E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+       
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -205,7 +205,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424930,
@@ -218,15 +218,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631180305215E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -257,7 +257,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424931,
@@ -270,15 +270,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631170503677E03_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+       
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -309,7 +309,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424932,
@@ -322,15 +322,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631170305214E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -361,7 +361,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424933,
@@ -374,15 +374,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631160503676E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -413,7 +413,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424934,
@@ -426,15 +426,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631160305213E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -465,7 +465,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424935,
@@ -478,15 +478,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631150503675E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -517,7 +517,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424936,
@@ -530,15 +530,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631150305212E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -569,7 +569,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424937,
@@ -582,15 +582,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631140503674E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -621,7 +621,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424938,
@@ -634,15 +634,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631140305211E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+    
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -673,7 +673,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424939,
@@ -686,15 +686,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631130503673E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -725,7 +725,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424940,
@@ -738,15 +738,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631130305210E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -777,7 +777,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424941,
@@ -790,15 +790,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631120305209E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -829,7 +829,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424942,
@@ -842,15 +842,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631120503672E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+       
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -881,7 +881,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424943,
@@ -894,15 +894,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631110503671E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -933,7 +933,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424944,
@@ -946,15 +946,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631110305208E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -985,7 +985,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424945,
@@ -998,15 +998,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631100503670E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1037,7 +1037,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424946,
@@ -1050,15 +1050,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631100305207E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1089,7 +1089,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424947,
@@ -1102,15 +1102,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631090503669E02_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1141,7 +1141,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424948,
@@ -1154,15 +1154,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631090305206E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1193,7 +1193,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424949,
@@ -1206,15 +1206,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631080503668E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1245,7 +1245,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 424950,
@@ -1258,15 +1258,15 @@
         },
         "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631080305205E01_DXXX.jpg",
         "earth_date": "2015-05-30",
-        "rover": {
-            "id": 5,
-            "name": "Curiosity",
-            "landing_date": "2012-08-06",
-            "launch_date": "2011-11-26",
-            "status": "active",
-            "max_sol": 2540,
-            "max_date": "2019-09-28",
-            "total_photos": 366206,
+        
+            "roverId": 5,
+            "roverName": "Curiosity",
+            "roverLanding_date": "2012-08-06",
+            "roverLaunch_date": "2011-11-26",
+            "roverStatus": "active",
+            "roverMax_sol": 2540,
+            "roverMax_date": "2019-09-28",
+            "roverTotal_photos": 366206,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1297,7 +1297,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146947,
@@ -1310,15 +1310,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154814494EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1345,7 +1345,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146948,
@@ -1358,15 +1358,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154814531EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1393,7 +1393,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146949,
@@ -1406,15 +1406,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154814689EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1441,7 +1441,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146950,
@@ -1454,15 +1454,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154814725EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1489,7 +1489,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146951,
@@ -1502,15 +1502,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154814883EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+    
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1537,7 +1537,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146952,
@@ -1550,15 +1550,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154814919EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1585,7 +1585,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146953,
@@ -1598,15 +1598,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154815077EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1633,7 +1633,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146954,
@@ -1646,15 +1646,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154815114EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1681,7 +1681,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146955,
@@ -1694,15 +1694,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154815272EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1729,7 +1729,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146956,
@@ -1742,15 +1742,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154815308EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+      
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1777,7 +1777,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146957,
@@ -1790,15 +1790,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154817471EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+       
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1825,7 +1825,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146958,
@@ -1838,15 +1838,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154817507EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1873,7 +1873,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146959,
@@ -1886,15 +1886,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154817665EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+       
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1921,7 +1921,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146960,
@@ -1934,15 +1934,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154817701EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+       
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -1969,7 +1969,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146961,
@@ -1982,15 +1982,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154817859EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2017,7 +2017,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146962,
@@ -2030,15 +2030,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154817895EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+       
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2065,7 +2065,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146963,
@@ -2078,15 +2078,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154818054EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2113,7 +2113,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146964,
@@ -2126,15 +2126,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154818090EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2161,7 +2161,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146965,
@@ -2174,15 +2174,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154818248EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+       
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2209,7 +2209,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 146966,
@@ -2222,15 +2222,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/n/300/1N154818285EDN3897P1582L0M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2257,7 +2257,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 248586,
@@ -2270,15 +2270,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/p/300/1P154814229ESF3897P2600L8M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2305,7 +2305,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 248587,
@@ -2318,15 +2318,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/p/300/1P154814229ESF3897P2600R8M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2353,7 +2353,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 248588,
@@ -2366,15 +2366,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/p/300/1P154815475ESF3897P2600L8M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2401,7 +2401,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 248589,
@@ -2414,15 +2414,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/p/300/1P154815475ESF3897P2600R8M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+       
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2449,7 +2449,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 248590,
@@ -2462,15 +2462,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/1/p/300/1P154818454ESF3897P2600L8M1-BR.JPG",
         "earth_date": "2004-11-28",
-        "rover": {
-            "id": 6,
-            "name": "Opportunity",
-            "landing_date": "2004-01-25",
-            "launch_date": "2003-07-07",
-            "status": "complete",
-            "max_sol": 5111,
-            "max_date": "2018-06-11",
-            "total_photos": 198439,
+        
+            "roverId": 6,
+            "roverName": "Opportunity",
+            "roverLanding_date": "2004-01-25",
+            "roverLaunch_date": "2003-07-07",
+            "roverStatus": "complete",
+            "roverMax_sol": 5111,
+            "roverMax_date": "2018-06-11",
+            "roverTotal_photos": 198439,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2497,7 +2497,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 284623,
@@ -2510,15 +2510,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/f/300/2F153001277EDN89AIP1121L0M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2545,7 +2545,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 284624,
@@ -2558,15 +2558,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/f/300/2F153001277EDN89AIP1121R0M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2593,7 +2593,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377208,
@@ -2606,15 +2606,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996157EFF89AIP2548L7M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2641,7 +2641,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377209,
@@ -2654,15 +2654,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996157EFF89AIP2548R1M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+        
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2689,7 +2689,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377210,
@@ -2702,15 +2702,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996194EFF89AIP2548L2M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+        
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2737,7 +2737,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377211,
@@ -2750,15 +2750,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996227EFF89AIP2548L5M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2785,7 +2785,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377212,
@@ -2798,15 +2798,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996007ESF89AIP2833L2M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+        
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2833,7 +2833,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377213,
@@ -2846,15 +2846,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996028ESF89AIP2833L5M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2881,7 +2881,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377214,
@@ -2894,15 +2894,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996062ESF89AIP2833L7M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+        
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2929,7 +2929,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377215,
@@ -2942,15 +2942,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152996092ESF89AIP2833R1M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+        
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -2977,7 +2977,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377216,
@@ -2990,15 +2990,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152997895ESF89AIP2600L8M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -3025,7 +3025,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377217,
@@ -3038,15 +3038,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P152997895ESF89AIP2600R8M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -3073,7 +3073,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377218,
@@ -3086,15 +3086,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P153001464ESF89AIP2600L8M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+       
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -3121,7 +3121,7 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     },
     {
         "id": 377219,
@@ -3134,15 +3134,15 @@
         },
         "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/300/2P153001464ESF89AIP2600R8M1-BR.JPG",
         "earth_date": "2004-11-07",
-        "rover": {
-            "id": 7,
-            "name": "Spirit",
-            "landing_date": "2004-01-04",
-            "launch_date": "2003-06-10",
-            "status": "complete",
-            "max_sol": 2208,
-            "max_date": "2010-03-21",
-            "total_photos": 124550,
+    
+            "roverId": 7,
+            "roverName": "Spirit",
+            "roverLanding_date": "2004-01-04",
+            "roverLaunch_date": "2003-06-10",
+            "roverStatus": "complete",
+            "roverMax_sol": 2208,
+            "roverMax_date": "2010-03-21",
+            "roverTotal_photos": 124550,
             "cameras": [
                 {
                     "name": "FHAZ",
@@ -3169,6 +3169,6 @@
                     "full_name": "Rear Hazard Avoidance Camera"
                 }
             ]
-        }
+        
     }
 ]

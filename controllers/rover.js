@@ -9,13 +9,13 @@ module.exports = {
         res.json(rover);
       });
     },
-    //Show an individual Job record based off of the title
-    // show:(req,res) => {
-    //     Rover.find({title: req.params.title}).then(rover => {
-    //         res.json(rover)
-    //     })
-    // },
-    //Create a new Job record at root (using Post method)
+    // Shows a  record based off of the title
+    show:(req,res) => {
+        Rover.find({title: req.params.title}).then(rover => {
+            res.json(rover)
+        })
+    },
+    // Create a new Job record at root (using Post method)
     create:(req,res) => {
         const newRover = req.body
         Rover.create(newRover).then(rover => res.json(rover));

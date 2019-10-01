@@ -5,7 +5,7 @@ const app = express();
 
 
 
-const imageRouter = require("./Routes/image")
+
 const roverRouter = require("./Routes/rover")
 
 
@@ -13,11 +13,11 @@ app.use(cors())
 app.use(parser.urlencoded({extended: true}));
 app.use(parser.json())
 
-const imageRouter = require("./Routes/image")
+const weatherRouter = require("./Routes/weather")
 const roverRouter = require("./Routes/rover")
 
-app.use('/', imageRouter)
-app.use("/rover", roverRouter)
+app.use('/', roverRouter)
+app.use("/weather", weatherRouter)
 
 
 

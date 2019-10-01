@@ -15,18 +15,17 @@ const roverSchema = new Schema ({
     img_src: String, 
     earth_date: Date, 
     SOL: Number,
-    rover:{
-        name: String, 
-        Landing_Date: Number, 
-        Launch_Date: Number, 
-        Status: String, 
-        total_photos: Number,
-        Max_Sol: Number, 
-}
+    roverName: String, 
+    roverLanding_Date: Number, 
+    roverLaunch_Date: Number, 
+    roverStatus: String, 
+    roverTotal_photos: Number,
+    roverMax_Sol: Number, 
+})
     
 
-})
 
 const Rover = mongoose.model("Rover", roverSchema);
 
 module.exports = Rover;
+

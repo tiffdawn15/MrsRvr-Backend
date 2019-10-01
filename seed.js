@@ -15,7 +15,7 @@ const roverSeedData = roverJsonData.map(roverJson => {
     roverData.img_src = roverJson.img_src;
     roverData.earth_date = roverJson.earth_date;
     roverData.SOL = roverJson.SOL;
-    roverData.rover = roverJson.roverJsonData
+    
     roverData.render = true
 
     return roverData;
