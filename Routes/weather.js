@@ -1,6 +1,6 @@
 const express = require('express');
 const controllerRouter = express.Router();
-const weatherController = require("../controllers/image")
+const weatherController = require("../controllers/weather")
 
 controllerRouter.get("/", weatherController.index)
 // controllerRouter.get("/title/:title", weatherController.show)

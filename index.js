@@ -6,7 +6,6 @@ const app = express();
 
 
 
-const roverRouter = require("./Routes/rover")
 
 
 app.use(cors())

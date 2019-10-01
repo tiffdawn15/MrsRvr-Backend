@@ -3,10 +3,10 @@ const controllerRouter = express.Router();
 const roverController = require("../controllers/rover")
 
 controllerRouter.get("/", roverController.index)
-// controllerRouter.get("/title/:title", roverController.show)
+controllerRouter.get("/name/:roverName", roverController.show)
 controllerRouter.post("/", roverController.create)
-controllerRouter.put("/update/:title", roverController.update)
-controllerRouter.delete("/delete/:title", roverController.destroy)
+controllerRouter.put("/update/:roverName", roverController.update)
+controllerRouter.delete("/delete/:roverName", roverController.destroy)
 
 
 module.exports = controllerRouter;

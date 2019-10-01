@@ -11,7 +11,7 @@ module.exports = {
     },
     // Shows a  record based off of the title
     show:(req,res) => {
-        Rover.find({title: req.params.title}).then(rover => {
+        Rover.find({roverName: req.params.roverName}).then(rover => {
             res.json(rover)
         })
     },
@@ -22,19 +22,19 @@ module.exports = {
         
     }, 
     //Update an existing Job record referncing the title
-    // update:(req,res) => {
-    //     const updatedJobs = req.body
+    update:(req,res) => {
+        const updatedRover = req.body
 
-    //     Rover.findOneAndUpdate({title: req.params.title}, updatedJobs, {
-    //         new: true
-    //     })
-    //     .then(rover => res.json(rover))
-    // },
+        Rover.findOneAndUpdate({roverName: req.params.roverName}, updatedRover, {
+            new: true
+        })
+        .then(rover => res.json(rover))
+    },
     //Delete a rover record referencing the title 
-    // destroy: (req,res) => {
-    //     Rover.findOneAndDelete({title: req.params.title})
-    //     .then(rover => res.json(rover))
-    // }
+    destroy: (req,res) => {
+        Rover.findOneAndDelete({roverName: req.params.roverName})
+        .then(rover => res.json(rover))
+    }
 
   };
   
