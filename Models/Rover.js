@@ -6,10 +6,12 @@ const mongoose = require("../connection")
 const Schema = mongoose.Schema
 
 
-//I moved the rover model into the image model. They should be able to use this for when they click. 
+//I moved the rover model into the Rover model. They should be able to use this for when they click. 
+//On the homepage we will use the img_src = SOL 
+//Individual pages will display Rover mission data in the Rover object 
 
 
-const imageSchema = new Schema ({
+const roverSchema = new Schema ({
     img_src: String, 
     earth_date: Date, 
     SOL: Number,
@@ -25,6 +27,6 @@ const imageSchema = new Schema ({
 
 })
 
-const Image = mongoose.model("Image", imageSchema);
+const Rover = mongoose.model("Rover", roverSchema);
 
-module.exports = Image;
+module.exports = Rover;

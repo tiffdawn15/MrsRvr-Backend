@@ -1,4 +1,4 @@
-const Image = require("../Models/Image")
+const Image = require("../Models/Rover")
 
 
 module.exports = {

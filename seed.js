@@ -1,4 +1,4 @@
-const Image = require("./Models/Image")
+const Image = require("./Models/Rover")
 const Weather = require("./Models/Weather")
 
 
@@ -9,6 +9,36 @@ const weatherJsonData = require("./weather.json")
 
 
 
+const roverSeedData = roverJsonData.map(roverJson => {
+    const roverData = {};
+
+    roverData.img_src = roverJson.img_src;
+    roverData.earth_date = roverJson.earth_date;
+    roverData.SOL = roverJson.SOL;
+    roverData.rover = roverJson.roverJsonData
+    roverData.render = true
+
+    return roverData;
+})
+
+
+
+
+
+
+const weatherSeedData = weatherJsonData.map(weatherJson => {
+    const weatherData = {};
+
+    weatherData.sol = weatherJson.sol;
+    weatherData.airTemp = weatherJson.airTemp;
+    weatherData.First_UTC = weatherJson.First_UTC;
+    weatherData.Last_UTC = weatherJson.Last_UTC;
+    weatherData.pre = weatherJson.pre; 
+    weatherData.Season = weatherJson.Season
+    weatherData.render = true
+
+    return weatherData;
+})
 
 
 
