@@ -13,13 +13,14 @@ const imageSchema = new Schema ({
     img_src: String, 
     earth_date: Date, 
     SOL: Number,
-    rover:[{
+    rover:{
         name: String, 
         Landing_Date: Number, 
         Launch_Date: Number, 
         Status: String, 
+        total_photos: Number,
         Max_Sol: Number, 
-    }]
+}
     
 
 })
