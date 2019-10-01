@@ -1,4 +1,4 @@
-const Image = require("./Models/Rover")
+const Rover = require("./Models/Rover")
 const Weather = require("./Models/Weather")
 
 
@@ -43,13 +43,13 @@ const weatherSeedData = weatherJsonData.map(weatherJson => {
 
 
 
-Image.deleteMany({}).then(() => {
-        Image.create(roverJsonData)
+Rover.deleteMany({}).then(() => {
+        Rover.create(roverSeedData)
      
-        .then(images => console.log(images))
+        .then(rover => console.log(rover))
         .catch(err => console.log(err))
     })
-    Image.save
+    Rover.save
    
 
 Weather.deleteMany({}).then(() => {

@@ -20,7 +20,8 @@ const roverSchema = new Schema ({
     roverLaunch_Date: Number, 
     roverStatus: String, 
     roverTotal_photos: Number,
-    roverMax_Sol: Number, 
+    render: Boolean
+     
 })
     
 

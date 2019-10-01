@@ -15,7 +15,7 @@ module.exports = {
             res.json(rover)
         })
     },
-    // Create a new Job record at root (using Post method)
+    // Create a new Rover record using the root of the website (using Post method)
     create:(req,res) => {
         const newRover = req.body
         Rover.create(newRover).then(rover => res.json(rover));

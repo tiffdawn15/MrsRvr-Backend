@@ -27,6 +27,7 @@ const weatherSchema = new Schema ({
     Last_UTC: String, 
     pre: [pressuerSchema], 
     Season: String, 
+    render: Boolean
 
 
 
