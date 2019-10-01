@@ -13,11 +13,11 @@ const Schema = mongoose.Schema
 
 const roverSchema = new Schema ({
     img_src: String, 
-    earth_date: Date, 
+    earth_date: String, 
     SOL: Number,
     roverName: String, 
-    roverLanding_Date: Number, 
-    roverLaunch_Date: Number, 
+    roverLanding_date: String, 
+    roverLaunch_date: String, 
     roverStatus: String, 
     roverTotal_photos: Number,
     render: Boolean

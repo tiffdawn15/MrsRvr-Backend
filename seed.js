@@ -16,7 +16,8 @@ const roverSeedData = roverJsonData.map(roverJson => {
     roverData.earth_date = roverJson.earth_date;
     roverData.SOL = roverJson.SOL;
     roverData.roverName = roverJson.roverName
-    roverData.roverLanding_Date = roverJson.roverLanding_Date
+    roverData.roverLanding_date = roverJson.roverLanding_date
+    roverData.roverLaunch_date = roverJson.roverLaunch_date
     roverData.roverStatus = roverJson.roverStatus
     roverData.roverTotal_photos = roverJson.roverTotal_photos
    
