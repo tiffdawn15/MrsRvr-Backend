@@ -3,10 +3,10 @@ const controllerRouter = express.Router();
 const weatherController = require("../controllers/weather")
 
 controllerRouter.get("/", weatherController.index)
-// controllerRouter.get("/title/:title", weatherController.show)
+controllerRouter.get("/sol/:Sol", weatherController.show)
 controllerRouter.post("/", weatherController.create)
-// controllerRouter.put("/update/:title", weatherController.update)
-// controllerRouter.delete("/delete/:title", weatherController.destroy)
+controllerRouter.put("/update/:Sol", weatherController.update)
+controllerRouter.delete("/delete/:Sol", weatherController.destroy)
 
 
 module.exports = controllerRouter;

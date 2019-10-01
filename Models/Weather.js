@@ -21,9 +21,9 @@ const pressuerSchema = new Schema({
 
 
 const weatherSchema = new Schema ({
-    sol:Number, 
+    Sol:Number, 
     airTemp:[airTempSchema], 
-    First_UTX: String, 
+    First_UTC: String, 
     Last_UTC: String, 
     pre: [pressuerSchema], 
     Season: String, 

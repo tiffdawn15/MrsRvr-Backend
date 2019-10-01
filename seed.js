@@ -15,6 +15,13 @@ const roverSeedData = roverJsonData.map(roverJson => {
     roverData.img_src = roverJson.img_src;
     roverData.earth_date = roverJson.earth_date;
     roverData.SOL = roverJson.SOL;
+    roverData.roverName = roverJson.roverName
+    roverData.roverLanding_Date = roverJson.roverLanding_Date
+    roverData.roverStatus = roverJson.roverStatus
+    roverData.roverTotal_photos = roverJson.roverTotal_photos
+   
+
+
     
     roverData.render = true
 
@@ -29,7 +36,7 @@ const roverSeedData = roverJsonData.map(roverJson => {
 const weatherSeedData = weatherJsonData.map(weatherJson => {
     const weatherData = {};
 
-    weatherData.sol = weatherJson.sol;
+    weatherData.Sol = weatherJson.Sol;
     weatherData.airTemp = weatherJson.airTemp;
     weatherData.First_UTC = weatherJson.First_UTC;
     weatherData.Last_UTC = weatherJson.Last_UTC;
@@ -39,6 +46,7 @@ const weatherSeedData = weatherJsonData.map(weatherJson => {
 
     return weatherData;
 })
+ 
 
 
 
