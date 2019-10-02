@@ -2,12 +2,14 @@ const express = require("express");
 const parser = require("body-parser")
 const cors = require("cors")
 const app = express();
+const passport = require("passport");
+
 
 //Mongoose is specific to the server.js authentication thing 
 const mongoose = require("mongoose")
 
 
-
+const users = require("./routes/user");
 
 
 app.use(cors())
@@ -22,6 +24,16 @@ app.use(parser.json())
 
 const weatherRouter = require("./Routes/weather")
 const roverRouter = require("./Routes/rover")
+
+
+
+// Passport middleware
+app.use(passport.initialize());
+// Passport config
+require("./config/passport")(passport);
+// Routes
+app.use("/api/users", users);
+
 
 
 app.use('/', roverRouter)
