@@ -34,19 +34,23 @@ const roverSeedData = roverJsonData.map(roverJson => {
 
 
 
-const weatherSeedData = weatherJsonData.map(weatherJson => {
-    const weatherData = {};
+// const weatherSeedData = weatherJsonData.map(weatherJson => {
+//     const weatherData = {};
 
-    weatherData.Sol = weatherJson.Sol;
-    weatherData.airTemp = weatherJson.airTemp;
-    weatherData.First_UTC = weatherJson.First_UTC;
-    weatherData.Last_UTC = weatherJson.Last_UTC;
-    weatherData.pre = weatherJson.pre; 
-    weatherData.Season = weatherJson.Season
-    weatherData.render = true
+//     weatherData.Sol = weatherJson.Sol;
+//     weatherData.airTemp = weatherJson.airTemp;
+//     weatherData.av = weatherJson.av;
+//     weatherData.ct = weatherJson.ct;
+//     weatherData.mn = weatherJson.mn; 
+//     weatherData.mx = weatherJson.mx;
+//     weatherData.First_UTC = weatherJson.First_UTC;
+//     weatherData.Last_UTC = weatherJson.Last_UTC;
+//     weatherData.pre = weatherJson.pre; 
+//     weatherData.Season = weatherJson.Season
+//     weatherData.render = true
 
-    return weatherData;
-})
+//     return weatherData;
+// })
  
 
 
@@ -65,6 +69,7 @@ Weather.deleteMany({}).then(() => {
     Weather.create(weatherJsonData)
     .then(weather => console.log(weather))
     .catch(err => console.log(err))
+    console.log(weatherData.airtemp)
 })
 
 Weather.save

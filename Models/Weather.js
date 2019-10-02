@@ -5,12 +5,7 @@ const Schema = mongoose.Schema
 
 
 //Model that sets up the airTemp, Pressue and general Weather Schema for the chart. 
-const airTempSchema = new Schema({
-    av: Number, 
-    ct: Number, 
-    mn: Number, 
-    mx: Number 
-})
+
 const pressuerSchema = new Schema({
     av: Number, 
     ct: Number, 
@@ -22,7 +17,11 @@ const pressuerSchema = new Schema({
 
 const weatherSchema = new Schema ({
     Sol:Number, 
-    airTemp:[airTempSchema], 
+
+    av: Number, 
+    ct: Number, 
+    mn: Number, 
+    mx: Number, 
     First_UTC: String, 
     Last_UTC: String, 
     pre: [pressuerSchema], 
