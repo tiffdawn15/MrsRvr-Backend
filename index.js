@@ -21,7 +21,7 @@ app.use("/weather", weatherRouter)
 
 
 
-app.set("port", process.env.PORT || 5050);
+app.set("port", process.env.PORT || 5060);
 
 app.listen(app.get("port"), () => {
   console.log(`✅ PORT: ${app.get("port")} 🌟`);
