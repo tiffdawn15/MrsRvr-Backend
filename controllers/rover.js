@@ -32,7 +32,7 @@ module.exports = {
     },
     //Delete a rover record referencing the title 
     destroy: (req,res) => {
-        Rover.findOneAndDelete({roverName: req.params.roverName})
+        Rover.findOneAndDelete({id: req.params.id})
         .then(rover => res.json(rover))
     }
 

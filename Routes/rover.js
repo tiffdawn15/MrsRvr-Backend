@@ -6,7 +6,7 @@ controllerRouter.get("/", roverController.index)
 controllerRouter.get("/name/:roverName", roverController.show)
 controllerRouter.post("/", roverController.create)
 controllerRouter.put("name/update/:roverName", roverController.update)
-controllerRouter.delete("/delete/:roverName", roverController.destroy)
+controllerRouter.delete("/delete/:id", roverController.destroy)
 
 
 module.exports = controllerRouter;
