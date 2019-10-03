@@ -32,7 +32,7 @@ module.exports = {
     },
     //Delete a rover record referencing the title 
     delete: (req,res) => {
-        Rover.findOn({id: req.params._id})
+        Rover.findOn({_id: req.params._id})
         .then(deleteRover => {res.json(deleteRover)})
         .catch(err => console.log(err))
         
