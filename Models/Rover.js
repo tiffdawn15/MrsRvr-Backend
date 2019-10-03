@@ -12,6 +12,7 @@ const Schema = mongoose.Schema
 
 
 const roverSchema = new Schema ({
+    id: Number,
     img_src: String, 
     earth_date: String, 
     SOL: Number,

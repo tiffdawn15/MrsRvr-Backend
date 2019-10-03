@@ -5,8 +5,10 @@ const roverController = require("../controllers/rover")
 controllerRouter.get("/", roverController.index)
 controllerRouter.get("/name/:roverName", roverController.show)
 controllerRouter.post("/", roverController.create)
-controllerRouter.put("name/update/:roverName", roverController.update)
-controllerRouter.delete("/delete/:id", roverController.destroy)
+controllerRouter.put("/name/update/:roverName", roverController.update)
+controllerRouter.delete("/delete/:_id", roverController.destroy)
 
 
 module.exports = controllerRouter;
+
+

@@ -4,7 +4,7 @@ const Rover = require("../Models/Rover")
 module.exports = {
     index: (req, res) => {
       Rover.find({})
-      .populate("onet")
+      .populate("rover")
       .then(rover => {
         res.json(rover);
       });
@@ -32,9 +32,13 @@ module.exports = {
     },
     //Delete a rover record referencing the title 
     destroy: (req,res) => {
-        Rover.findOneAndDelete({id: req.params.id})
-        .then(rover => res.json(rover))
+        Rover.findOneAndDelete({id: req.params._id})
+        .then(deleteRover => {res.json(deleteRover)})
+        .catch(err => console.log(err))
+        
     }
 
   };
   
+
+ 

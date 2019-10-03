@@ -12,6 +12,7 @@ const weatherJsonData = require("./weather.json")
 const roverSeedData = roverJsonData.map(roverJson => {
     const roverData = {};
 
+    roverData.id = roverJson.id;
     roverData.img_src = roverJson.img_src;
     roverData.earth_date = roverJson.earth_date;
     roverData.SOL = roverJson.SOL;
