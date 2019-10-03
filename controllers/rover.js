@@ -25,14 +25,14 @@ module.exports = {
     update:(req,res) => {
         const updatedRover = req.body
 
-        Rover.findOneAndUpdate({id: req.params._id}, updatedRover, {
+        Rover.findOneAndUpdate({_id: req.params._id}, updatedRover, {
             new: true
         })
         .then(rover => res.json(rover))
     },
     //Delete a rover record referencing the title 
     delete: (req,res) => {
-        Rover.findOn({_id: req.params._id})
+        Rover.findByIdAndDelete( req.params._id)
         .then(deleteRover => {res.json(deleteRover)})
         .catch(err => console.log(err))
         
