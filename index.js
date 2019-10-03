@@ -9,7 +9,7 @@ const passport = require("passport");
 const mongoose = require("mongoose")
 
 
-const users = require("./routes/user");
+const users = require("./Routes/user");
 
 
 app.use(cors())
