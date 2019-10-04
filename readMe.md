@@ -17,10 +17,25 @@ Deployed Heroku link to the MrsRvr API:
 https://mrsrvr.herokuapp.com
 
 
+Description of MrsRvr:   
+MrsRvr was intended to be the instagram of MrsRvr pictures. Why? Because the internet needs such a service! This repo is specifically the backend for the MrsRvr website. The deployed API above was used in the frontend of the website. 
+
+Features of Backend: 
+* Rover image & mission data 
+* Weather data for Sols 292 - 301 (Sol is a Mars day, but it can't be called a day because it is not 24 hours.)
+* User Models - Able to register and login 
 
 
+Technology Used: 
+* heroku 
+* Express 
+* mongoose 
+* Node 
 
-A readme.md file in the root of your repo that follows good standards of documentation (i.e. explanations of the technologies used, the approach taken, features, installation instructions, unsolved problems, etc.)
+Tested API using Postman. 
+
+Full Stack is MERN 
+
 
 
 Routes Used: 
@@ -89,6 +104,27 @@ Note: Basic stuff. Name, email, password, confirm password
 Note: Post method 
 
 
+
+Instaliation Instructions: 
+
+Fork & clone repo to your local device. 
+
+In terminal navigate to the repo. 
+
+Deploy Mongod, Nodemon, and npm install. 
+
+npm start should run the server. (Using port 5060)
+
+npm open should open the local host. 
+
+
+
 Contributions: 
 
-Can someone, please, help us solve the foreach error that keeps coming up in the frontend when we try implementing the functioanlity for the Login & Register pages. 
+Can someone, please (!), help us solve the foreach error that keeps coming up in the frontend when we try implementing the functioanlity for the Login & Register pages. 
+
+Main Backend Repo: https://github.com/tiffdawn15/MrsRvr-Backend  
+
+Main Frontend Repo: https://github.com/TymothyJHanks/Sei-Project-3/tree/master   
+
+For contributons, please, use a pull request from your forked repo. 
